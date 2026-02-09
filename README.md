@@ -50,64 +50,23 @@ Gerar um plano de MVP contendo:
 
 > Crie um App de Finanças Pessoais com base no seguinte PRD (Product Requirements Document): {PRD}
 
-> Tentei criar uma meta chamada Reserva de Emergencia, mas ela não apareceu no componente. A impressão que tive foi que apenas o Assistente Financeiro a reconheceu, poderia verificar? Além disso, onde vejo os gráficos e extrato?
 
-> Sim (Quer que eu adicione uma tela de relatórios com gráficos e extrato detalhado das transações?)
 
 ---
 
 ## 🎯 Resultado Final
 
 Acesse o protótipo funcional no Lovable:  
-**[conversa-fin-amigo.lovable.app](https://conversa-fin-amigo.lovable.app/)**
 
-<img width="1920" height="945" alt="image" src="https://github.com/user-attachments/assets/88ef611d-970e-4377-918a-918714311218" />
+https://lovable.dev/projects/8b159e5c-ec81-4cae-99cb-ef5f33963c3e
 
----
+<img width="1357" height="671" alt="image" src="https://github.com/user-attachments/assets/c8d92f6e-864f-4c67-94c5-890e057ae1b9" />
 
-## 🔍 Funcionalidades do App de Organização Financeira
+<img width="1340" height="687" alt="image" src="https://github.com/user-attachments/assets/55042595-7f76-491a-81b9-3db566ba09af" />
 
-### 1. Dashboard Financeiro
-- Exibe um panorama claro das finanças pessoais:
-  - **Receitas**: Total de ganhos registrados
-  - **Despesas**: Total de gastos
-  - **Saldo**: Diferença entre receitas e despesas
-- Interface simples e direta para facilitar a compreensão
-
-### 2. Assistente Financeiro
-- Personagem conversacional que interage com o usuário
-- Incentiva a conexão de contas e cartões para uma visão completa das finanças
-- Oferece suporte emocional e motivacional
-
-### 3. Registro de Transações via Chat
-- Campo de entrada para o usuário digitar mensagens em linguagem natural
-- Permite registrar gastos e interagir com o assistente de forma fluida
-
-### 4. Metas Financeiras
-- Área dedicada à criação e acompanhamento de objetivos financeiros
-- Sugestão proativa para o usuário definir metas
-- Botão de ação para adicionar novas metas
-
-### 5. Relatórios Personalizados
-- Visualizações simples e adaptadas ao estilo do usuário
-- Acompanhamento de metas e progresso financeiro
-
-### 6. Design Universal
-- Interface acessível e inclusiva:
-  - Linguagem simples
-  - Navegação clara
-  - Compatibilidade com leitores de tela e comandos por voz
-  - Feedbacks visuais e auditivos para facilitar o uso
 
 ---
 
 ## 🧠 Reflexão
 
-### O que funcionou bem?  
-O refinamento do PRD previamente feito no Copilot ajudou muito, pois os créditos do Lovable acabaram em apenas 3 interações.
-
-### O que não funcionou como o esperado?  
-Esperava poder interagir mais vezes gratuitamente com o Lovable, mas as interações feitas já foram de grande valia para aprender mais sobre Vibe Coding.
-
-### O que aprendi sobre conversar com IAs?  
-Aprendi que é basicamente igual a conversar com uma pessoa: quanto mais detalhes e clareza você dá, melhor é a interação.
+Não domino muito, mas cheguei a esse resutado com o passo a passo do curso. Espero ser suficiente.
